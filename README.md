@@ -1,16 +1,28 @@
-# contact_app
+# Contacts App
 
-A new Flutter project.
+A simple Flutter app for managing contacts. The app allows users to add, view, and delete contacts, including basic information such as name, phone number, email, and an optional profile picture.
+
+## Features
+
+- **Add Contact:** Add a new contact with a name, phone number, email, and an optional profile picture.
+- **View Contacts:** View a list of contacts sorted by name, including their basic information and profile pictures.
+- **Delete Contact:** Remove a contact from the list.
+
+## Screenshots
+
+<img src="https://github.com/aayush0828/contact_app/assets/132382177/1219569d-14c5-4341-b6c3-156d27b7b0ff" width="250">
+<img src="https://github.com/aayush0828/contact_app/assets/132382177/52960fb9-6523-43e3-b5f9-49ad8bc7a7fc" width="250">
+
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+### Prerequisites
 
-A few resources to get you started if this is your first Flutter project:
+- Flutter installed on your machine
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+### Installation
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+1. Clone the repository:
+
+   ```bash
+   git clone https://github.com/aayush0828/contacts_app.git
