@@ -17,7 +17,7 @@ A simple Flutter app for managing contacts. The app allows users to add, view, a
 ## Getting Started
 
 ### Prerequisites
-
+   
 - Flutter installed on your machine
 
 ### Installation
