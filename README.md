@@ -3,7 +3,7 @@
 A simple Flutter app for managing contacts. The app allows users to add, view, and delete contacts, including basic information such as name, phone number, email, and an optional profile picture.   
 
 ## Features
-
+   
 - Add Contact: Add a new contact with a name, phone number, email, and an optional profile picture.
 - View Contacts: View a list of contacts sorted by name, including their basic information and profile pictures. 
 - Delete Contact: Remove a contact from the list.  
